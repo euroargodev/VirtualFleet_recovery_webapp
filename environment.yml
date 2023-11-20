@@ -11,6 +11,7 @@ dependencies:
   - dask-kubernetes
   - distributed
   - flask
+  - flask-sqlalchemy
   - gcsfs
   - graphviz
   - ipykernel
@@ -53,6 +54,6 @@ dependencies:
     - memory-profiler
     - line-profiler
     - flask-swagger
-    - Flask-Security-Too
+    - flask-login
     - geojson
     - dominate
